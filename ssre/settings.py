@@ -146,11 +146,7 @@ MESSAGE_TAGS = {
 DEFAULT_FROM_EMAIL = 'Hot Properties <noreply@moranlabs.com>'
 
 # SMTP configuration
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_PORT = 587
-EMAIL_HOST_USER = 'olesuyanka@gmail.com'
-EMAIL_HOST_PASSWORD = 'academic28065701'
-EMAIL_USE_TLS = True
+#git rm readme.md
 
 
 
